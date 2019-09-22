@@ -1,0 +1,10 @@
+C:\Users\sunga\source\repos\Notetaker\bin\Debug\Notetaker.exe.config
+C:\Users\sunga\source\repos\Notetaker\bin\Debug\Notetaker.exe
+C:\Users\sunga\source\repos\Notetaker\bin\Debug\Notetaker.pdb
+C:\Users\sunga\source\repos\Notetaker\obj\Debug\Notetaker.csprojAssemblyReference.cache
+C:\Users\sunga\source\repos\Notetaker\obj\Debug\Notetaker.Form1.resources
+C:\Users\sunga\source\repos\Notetaker\obj\Debug\Notetaker.Properties.Resources.resources
+C:\Users\sunga\source\repos\Notetaker\obj\Debug\Notetaker.csproj.GenerateResource.cache
+C:\Users\sunga\source\repos\Notetaker\obj\Debug\Notetaker.csproj.CoreCompileInputs.cache
+C:\Users\sunga\source\repos\Notetaker\obj\Debug\Notetaker.exe
+C:\Users\sunga\source\repos\Notetaker\obj\Debug\Notetaker.pdb
